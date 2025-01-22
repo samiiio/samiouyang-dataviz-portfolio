@@ -71,7 +71,7 @@ You get the idea - just don't forget the space between the # and your title.  `#
 
 Here's an example of how to add an image to my portfolio.  
 
-![funny dog picture](funny-dog-unsplash.jpg)
+![funny dog picture](IMG_5016.HEIC)
 > Photo by <a href="https://unsplash.com/pt-br/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">charlesdeluvio</a> on <a href="https://unsplash.com/photos/K4mSJ7kc0As?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
 
