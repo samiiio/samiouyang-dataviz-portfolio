@@ -78,6 +78,7 @@ Here's an example of how to add an image to my portfolio.
 Alternately, you can set the size of the image using just a bit of HTML: 
 
 <img src="funny-dog-unsplash.jpg" width="200"/>
+<img src="IMG_5016.jpg" width="200"/>
 
 Remember that you'll need to upload the image into your repository, or include a link to the image somewhere else.  
 
