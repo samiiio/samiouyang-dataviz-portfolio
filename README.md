@@ -15,6 +15,7 @@ Hi!  I'm Sami. I'm studying data analytics and public policy at Carnegie Mellon 
 
 # What I hope to learn
 
+From this course, I have several learning goals:
 1. Making beautiful data visualizations.
 2. Creating effective and informative data visualizations.
 3. Telling good stories with data visualizations.
