@@ -11,20 +11,15 @@ It's always helpful to keep track of your web URL.  Consider putting that somewh
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
 
 # About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+Hi!  I'm Sami. I'm studying data analytics and public policy at Carnegie Mellon University. I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
 
 # What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
 
-1. List item #1
-2. List item #2
-3. List item #3
+1. Making beautiful data visualizations.
+2. Creating effective and informative data visualizations.
+3. Telling good stories with data visualizations.
 
-or...
-
-- List item #1
-- List item #2
-- List item #3
+Once I graduate, I would like to be a Data Analyst or Business Analyst, or having my own coffee shop!
 
 # Portfolio
 
