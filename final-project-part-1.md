@@ -14,7 +14,7 @@ Then I will figure out when is the rainy season in Pittsburgh.
 Source: https://www.visualcrossing.com/weather/weather-data-services#
 Dropbox: https://drive.google.com/drive/folders/1dVE8PM1bRmRD6FLIXur8KMm6ncupdE9R?usp=drive_link
 
-The data is from Visual Crossing Weather, it is the easiest-to-use and lowest-cost source for historical weather data. The data contains features like temperature, perciptation, humidity, windspeed, etc. So I will explore:
+The data is from Visual Crossing Weather, a convienet and lowest-cost source for historical weather data.(Visual Crossing, 2024) The data contains features like temperature, perciptation, humidity, windspeed, etc. So I will explore:
 - the percentage of rainy days in a year in pittsburgh
 - when is the rainy season
 - when is the best time for playing tennis outdoor
@@ -23,3 +23,4 @@ The data is from Visual Crossing Weather, it is the easiest-to-use and lowest-co
 I will primarily use Tableau and Python to do data visualization, and I'll be using Shorthand for my presentation.
 
 # Reference
+- Visual Crossing. (2024). Weather Data & API. Retrieved from https://www.visualcrossing.com/
