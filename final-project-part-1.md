@@ -14,6 +14,7 @@ Then I will figure out when is the rainy season in Pittsburgh.
 
 # The Data
 Source: https://www.visualcrossing.com/weather/weather-data-services#
+
 Dropbox: https://drive.google.com/drive/folders/1dVE8PM1bRmRD6FLIXur8KMm6ncupdE9R?usp=drive_link
 
 The data is from Visual Crossing Weather, a convienet and lowest-cost source for historical weather data.(Visual Crossing, 2024) The data contains features like temperature, perciptation, humidity, windspeed, etc. So I will explore:
