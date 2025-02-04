@@ -5,9 +5,11 @@ This project investigates Pittsburgh’s weather patterns, focusing on precipita
 
 # Initial Skethces
 <img width="805" alt="image" src="https://github.com/user-attachments/assets/ca10eec0-0180-4c4f-9dad-3b62b3e4280d" />
+
 I'll first exploring the percentage of each weather condition in Pittsburgh, to see if rainy days really dominiate a lot in Pittsburgh.
 
 <img width="740" alt="image" src="https://github.com/user-attachments/assets/86df4046-9326-4a7d-a359-c571f26de188" />
+
 Then I will figure out when is the rainy season in Pittsburgh.
 
 # The Data
