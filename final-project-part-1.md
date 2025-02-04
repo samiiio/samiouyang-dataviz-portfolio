@@ -21,3 +21,5 @@ The data is from Visual Crossing Weather, it is the easiest-to-use and lowest-co
 
 # Method and Medium
 I will primarily use Tableau and Python to do data visualization, and I'll be using Shorthand for my presentation.
+
+# Reference
