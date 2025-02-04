@@ -23,7 +23,7 @@ The data is from Visual Crossing Weather, a convienet and lowest-cost source for
 - when is the best time for playing tennis outdoor
 
 # Method and Medium
-I will primarily use Tableau and Python to do data visualization, and I'll be using Shorthand for my presentation.
+I will primarily use Tableau and Python to explore data, to see what data visualization I can create, and achieve the intial sketches I just metioned above. For the presentation, I will use Shorthand to do that.
 
 # Reference
 - Visual Crossing. (2024). Weather Data & API. Retrieved from https://www.visualcrossing.com/
