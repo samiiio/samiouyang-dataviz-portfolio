@@ -21,9 +21,11 @@ The data is from Visual Crossing Weather, a convienet and lowest-cost source for
 - the percentage of rainy days in a year in pittsburgh
 - when is the rainy season
 - when is the best time for playing tennis outdoor
+- etc.
 
 # Method and Medium
-I will primarily use Tableau and Python to explore data, to see what data visualization I can create, and achieve the intial sketches I just metioned above. For the presentation, I will use Shorthand to do that.
+I will primarily use Tableau or Python to explore data, to see what interesting data visualizations I can create, and achieve the intial sketches I just metioned above. Finally tried to tell a good story based on my data. 
+For the presentation, I will use Shorthand to do that.
 
 # Reference
 - Visual Crossing. (2024). Weather Data & API. Retrieved from https://www.visualcrossing.com/
