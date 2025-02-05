@@ -24,8 +24,8 @@ The data is from Visual Crossing Weather, a convienet and lowest-cost source for
 - etc.
 
 # Method and Medium
-I will primarily use Tableau or Python to explore data, to see what interesting data visualizations I can create, and achieve the intial sketches I just metioned above. Finally tried to tell a good story based on my data. 
-For the presentation, I will use Shorthand to do that.
+I will first use python to see if there any missing values or ourliers I need to handle. After data cleaning, I will use Tableau or Python to explore data, to see what interesting data visualizations I can make, and also to achieve the inital sketches I made above.
+For the presentation, I would like to use Shorthand to do that.
 
 # Reference
 - Visual Crossing. (2024). Weather Data & API. Retrieved from https://www.visualcrossing.com/
