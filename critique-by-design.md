@@ -65,6 +65,8 @@ _Include and describe your final solution here. It's also a good idea to summari
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
+![Sheet 1](https://github.com/user-attachments/assets/84656f84-eecf-44c9-8d32-222d242b75fe)
+
 ## References
 _List any references you used here._
 
