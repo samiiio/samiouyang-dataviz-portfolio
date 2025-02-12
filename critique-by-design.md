@@ -1,7 +1,8 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Redesign HPV Vaccine Coverage Visualization
-Text here...
+
+In this assignment, I'm going to critique a visualization by redesign it. I'll include my every step and insights in this page.
 
 _For each step below, you should document your progress as you move forward.  In terms of tone, think of the writeup as though you're keeping journal of your step-by-step process.   You should include a any insights you gained from the critique method, and what it led you to think about when considering the redesign.  You should talk about how you moved next to the sketches, and any insights you gleaned from your user feedback.  Document what you changed based on the user feedback in your redesign.  Finally, talk about what your redesigned data visualization shows, why you selected the data visualization you did, and what you attempted to show or do differently._
 
@@ -69,7 +70,7 @@ _Include and describe your final solution here. It's also a good idea to summari
 ![Sheet 1](https://github.com/user-attachments/assets/84656f84-eecf-44c9-8d32-222d242b75fe)
 
 The reason I choose stacked area chart is:
-- It can shows the upward trend of HPV vaccine coverage of different countries over time.
+- It can shows the upward trend of HPV vaccine coverage of different countries over time. While in the original visualization, it is not that obvious to see the overall upward trends of vaccine coverage.
 - It can shows the ranking of vaccine coverage conditions of selected countries, therefore it would be easier for audiences to compare.
 - The visualization is beautiful, which could attract audiences' attention.
 
