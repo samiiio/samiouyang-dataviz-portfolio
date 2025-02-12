@@ -12,14 +12,20 @@ _You can include screenshots, sketches or other artifacts with your narrative to
 ![image](https://github.com/user-attachments/assets/fb445754-c364-49f0-88c5-5bc843089ee5)
 source: https://data.world/makeovermonday/coverage-of-the-hpv-vaccine 
 
-_Include link to the original data visualization (or screenshot - make sure to correctly cite your sources, etc.).  Include paragraph or two on why you selected this particular data visualization.  For obvious reasons, the data visualization you select should come from a publicly accessible source._
+The reason I choose this visualization is because I actually think this visualilzation is very easy to understand, and efficient to show information. But the design is not beautiful. So even though I know it would be challenging, I would still like to see if I can make this visualization better. 
 
 ## Step two: the critique
 _Don't forget to complete the Google Form found on the assignment page.  You can summarize your thoughts here._
+There are few areas for improvement for this visualization:
+- the whole visualization looks boring, it lacks of color differentiation. Although the it's not necessary in this case to use multiple colors, but I think we can use colors to make the visualization look better.
+- the background and y-axis and x-axis labels are too light and subtle, making it difficult for audience to know the exact values.
+- there's no sequence or order of all the countries, so it is hard to compare the total 12 countries' coverage on HPV vaccine.
+- there are some missing labels (years) on x-axis. 
 
 ## Step three: Sketch a solution
 
 ![image](https://github.com/user-attachments/assets/ad302832-ca75-41a7-a648-1c3ce9dd3cc2)
+
 
 ![Sheet 2](https://github.com/user-attachments/assets/fe2fcfe4-6d2e-499f-a8f8-67b12e0b850b)
 
