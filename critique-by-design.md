@@ -54,13 +54,13 @@ _Don't identify or share personally identifiable information (PII) about the peo
 
 | Question | Interview 1 | Interview 2 |
 |----------|-------------|-------------|
-|   Q2     | A visualization showing HPV vaccine condition of different countires  | HPV vaccine coverage condition worldwild |
-|Which sketch do you prefer|    Treemap       |     Heatmap        |
-|  Is there anything you would change |             |  Colorplatte of heatmap           |
+| describe to me what this is telling you?| A visualization showing HPV vaccine condition of different countires  | HPV vaccine coverage condition worldwild |
+|Which sketch do you prefer?|    Treemap       |     Heatmap        |
+|  Is there anything you would change? |             |  Colorplatte of heatmap           |
 
 Synthesis: 
 
-_What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign._
+It seems like both interviewees think I can choose a better color platte for no matter which sketch. And both of them think there might be a place to change the chart type, but we did not come up with any. I might try to change a chart type later.
 
 ## Step five: build the solution
 
@@ -68,8 +68,13 @@ _Include and describe your final solution here. It's also a good idea to summari
 
 ![Sheet 1](https://github.com/user-attachments/assets/84656f84-eecf-44c9-8d32-222d242b75fe)
 
+The reason I choose stacked area chart is:
+- It can shows the upward trend of HPV vaccine coverage of different countries over time.
+- It can shows the ranking of vaccine coverage conditions of selected countries, therefore it would be easier for audiences to compare.
+- The visualization is beautiful, which could attract audiences' attention.
+
 ## References
-_List any references you used here._
+Data.World. (n.d.). Coverage of the HPV vaccine. Retrieved February 12, 2025, from https://data.world/makeovermonday/coverage-of-the-hpv-vaccine
 
 ## AI acknowledgements
 _If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
