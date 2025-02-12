@@ -54,9 +54,9 @@ _Don't identify or share personally identifiable information (PII) about the peo
 
 | Question | Interview 1 | Interview 2 |
 |----------|-------------|-------------|
-|   Q2     | A visualization showing HPV vaccine condition of different countires  |             |
-|          |             |             |
-|          |             |             |
+|   Q2     | A visualization showing HPV vaccine condition of different countires  | HPV vaccine coverage condition worldwild |
+|Which sketch do you prefer|    Treemap       |     Heatmap        |
+|  Is there anything you would change |             |  Colorplatte of heatmap           |
 
 Synthesis: 
 
