@@ -74,6 +74,8 @@ The reason I choose stacked area chart is:
 - It can shows the ranking of vaccine coverage conditions of selected countries, therefore it would be easier for audiences to compare that which country doing a better job in HPV vaccine coverage.
 - The visualization is beautiful, which could attract audiences' attention.
 
+![image](https://github.com/user-attachments/assets/6d6e6857-8f88-4ea9-bfb9-8a81aef01806)
+
 ## References
 Data.World. (n.d.). Coverage of the HPV vaccine. Retrieved February 12, 2025, from https://data.world/makeovermonday/coverage-of-the-hpv-vaccine
 
