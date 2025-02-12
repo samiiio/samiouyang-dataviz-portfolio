@@ -21,6 +21,9 @@ _Don't forget to complete the Google Form found on the assignment page.  You can
 
 ![image](https://github.com/user-attachments/assets/ad302832-ca75-41a7-a648-1c3ce9dd3cc2)
 
+![Sheet 2](https://github.com/user-attachments/assets/fe2fcfe4-6d2e-499f-a8f8-67b12e0b850b)
+
+
 ## Step four: Test the solution
 
 _Before you conduct your interviews, prepare a simple script.  Use this as a guide and as a way to take notes as you go forward. Come up with your own list of questions you want to ask for the selected visualization. Keep the questions broad so you can get the most value out of your feedback. Then, document answers to your questions here._
