@@ -1,6 +1,6 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# Title
+# Redesign HPV Vaccine Coverage Visualization
 Text here...
 
 _For each step below, you should document your progress as you move forward.  In terms of tone, think of the writeup as though you're keeping journal of your step-by-step process.   You should include a any insights you gained from the critique method, and what it led you to think about when considering the redesign.  You should talk about how you moved next to the sketches, and any insights you gleaned from your user feedback.  Document what you changed based on the user feedback in your redesign.  Finally, talk about what your redesigned data visualization shows, why you selected the data visualization you did, and what you attempted to show or do differently._
@@ -12,11 +12,11 @@ _You can include screenshots, sketches or other artifacts with your narrative to
 ![image](https://github.com/user-attachments/assets/fb445754-c364-49f0-88c5-5bc843089ee5)
 source: https://data.world/makeovermonday/coverage-of-the-hpv-vaccine 
 
-The reason I choose this visualization is because I actually think this visualilzation is very easy to understand, and efficient to show information. But the design is not beautiful. So even though I know it would be challenging, I would still like to see if I can make this visualization better. 
+The reason I choose this visualization is because I actually think this visualilzation is very straightforward to understand, and efficient to convey information. But the design is not beautiful, the audience may lost interest or do not want to spend time reading it. So even though I know it would be challenging to make the visualization convey information more efficiently than the orginal one, I would still like to see if I can make this visualization looks better. 
 
 ## Step two: the critique
-_Don't forget to complete the Google Form found on the assignment page.  You can summarize your thoughts here._
-There are few areas for improvement for this visualization:
+
+There are few areas of possible improvements for this visualization:
 - the whole visualization looks boring, it lacks of color differentiation. Although the it's not necessary in this case to use multiple colors, but I think we can use colors to make the visualization look better.
 - the background and y-axis and x-axis labels are too light and subtle, making it difficult for audience to know the exact values.
 - there's no sequence or order of all the countries, so it is hard to compare the total 12 countries' coverage on HPV vaccine.
@@ -26,6 +26,7 @@ There are few areas for improvement for this visualization:
 
 ![image](https://github.com/user-attachments/assets/ad302832-ca75-41a7-a648-1c3ce9dd3cc2)
 
+The reason I choose the heatmap is it can shows the vaccine coverage of each year in our selected countries. It is hard for audience to read the exact rates from the orignal visualization, but in this heatmap, everything is straightforward. Audiences could learn information without effort. 
 
 ![Sheet 2](https://github.com/user-attachments/assets/fe2fcfe4-6d2e-499f-a8f8-67b12e0b850b)
 
@@ -53,7 +54,7 @@ _Don't identify or share personally identifiable information (PII) about the peo
 
 | Question | Interview 1 | Interview 2 |
 |----------|-------------|-------------|
-|          |             |             |
+|   Q2     | A visualization showing HPV vaccine condition of different countires  |             |
 |          |             |             |
 |          |             |             |
 
