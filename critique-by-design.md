@@ -31,6 +31,14 @@ The reason I choose the heatmap is it can shows the vaccine coverage of each yea
 
 ![Sheet 2](https://github.com/user-attachments/assets/fe2fcfe4-6d2e-499f-a8f8-67b12e0b850b)
 
+![Sheet 1](https://github.com/user-attachments/assets/84656f84-eecf-44c9-8d32-222d242b75fe)
+This is the previous final visualization I got. The reason I choose stacked area chart is:
+- It can shows the upward trend of HPV vaccine coverage of different countries over time. While in the original visualization, it is not that obvious to see the overall upward trends of vaccine coverage.
+- It can shows the ranking of vaccine coverage conditions of selected countries, therefore it would be easier for audiences to compare that which country doing a better job in HPV vaccine coverage.
+But after talking to our TA, I realize this is not a good choice. SO I started to redesign the graph again.
+
+![new_hpv_sketch](https://github.com/user-attachments/assets/b64d950c-7cd4-4dee-b0bf-de6fd3064c43)
+Then I narrowed down the slected countries, to focus on the HPV vaccine coverage by continents, instead of random slected countires in the original visualization. By using the stacked bar chart, we can clearly see that which continent has a comparately high vaccine coverage, and their changes from 2010 to 2022. But I think it still takes some time for audience to match the color and countinent names. 
 
 ## Step four: Test the solution
 
@@ -66,13 +74,6 @@ It seems like both interviewees think I can choose a better color platte for no 
 ## Step five: build the solution
 
 _Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
-
-![Sheet 1](https://github.com/user-attachments/assets/84656f84-eecf-44c9-8d32-222d242b75fe)
-
-The reason I choose stacked area chart is:
-- It can shows the upward trend of HPV vaccine coverage of different countries over time. While in the original visualization, it is not that obvious to see the overall upward trends of vaccine coverage.
-- It can shows the ranking of vaccine coverage conditions of selected countries, therefore it would be easier for audiences to compare that which country doing a better job in HPV vaccine coverage.
-- The visualization is beautiful, which could attract audiences' attention.
 
 <div class='tableauPlaceholder' id='viz1739399302937' style='position: relative'><noscript><a href='#'><img alt='HPV Vaccine Coverage Over Time By Continents (2010-2022)* Five Continents with Sub-Saharan Africa area and Australia, Antarcia not included* ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;HP&#47;HPV_Vaccine_Coverage_Overtime_Continents&#47;Sheet3&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='HPV_Vaccine_Coverage_Overtime_Continents&#47;Sheet3' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;HP&#47;HPV_Vaccine_Coverage_Overtime_Continents&#47;Sheet3&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
 <script type='text/javascript'>                    
