@@ -85,6 +85,8 @@ _Include and describe your final solution here. It's also a good idea to summari
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
+![Sheet 3](https://github.com/user-attachments/assets/f46de5a0-33e9-40dc-99e9-2579c91d8b00)
+* For some reason, the embeded code could not shoe the complete visualization, so I pasted a image here.
 ## References
 Data.World. (n.d.). Coverage of the HPV vaccine. Retrieved February 12, 2025, from https://data.world/makeovermonday/coverage-of-the-hpv-vaccine
 
