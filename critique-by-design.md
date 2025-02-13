@@ -45,7 +45,7 @@ Then I narrowed down the slected countries, to focus on the HPV vaccine coverage
 
 ## Step four: Test the solution
 
-ps. last two graphs were not created when I did the interview. So the results are only for heatmap and treemap sketches.
+*ps. last two graphs were not created when I did the interview. So the results are only for heatmap and treemap sketches.
 
 Results: 
 
