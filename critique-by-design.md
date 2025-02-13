@@ -45,6 +45,8 @@ Then I narrowed down the slected countries, to focus on the HPV vaccine coverage
 
 ## Step four: Test the solution
 
+ps. last two graphs were not created when I did the interview. So the results are only for heatmap and treemap sketches.
+
 Results: 
 
 | Question | Interview 1 | Interview 2 |
@@ -84,5 +86,5 @@ So overall, the benefits of my new redesign would be:
 Data.World. (n.d.). Coverage of the HPV vaccine. Retrieved February 12, 2025, from https://data.world/makeovermonday/coverage-of-the-hpv-vaccine
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+N/A
 
