@@ -26,7 +26,7 @@ I have done 4 sketches overall. I have documented my thoughts when I did each sk
 #### Sketch 1
 ![image](https://github.com/user-attachments/assets/ad302832-ca75-41a7-a648-1c3ce9dd3cc2)
 
-The reason I choose the heatmap is it can shows the vaccine coverage of each year in our selected countries. It is hard for audience to read the exact rates from the orignal visualization, but in this heatmap, everything is straightforward. Audiences could learn information without effort. But it seems like that's too much information, and the visualization looks busy, so we will keep working here.
+The reason I choose the heatmap is it can shows the vaccine coverage of each year in our selected countries. Since I did not find heatmap in Tableau, so for this sketch I used python to do that. It is hard for audience to read the exact rates from the orignal visualization, but in this heatmap, everything is straightforward. Audiences could learn information without effort. But it seems like that's too much information, and the visualization looks busy, so we will keep working here. 
 
 #### Sketch 2
 ![Sheet 2](https://github.com/user-attachments/assets/fe2fcfe4-6d2e-499f-a8f8-67b12e0b850b)
