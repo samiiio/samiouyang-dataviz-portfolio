@@ -4,46 +4,48 @@
 
 In this assignment, I'm going to critique a visualization by redesign it. I'll include my every step and insights in this page.
 
-_For each step below, you should document your progress as you move forward.  In terms of tone, think of the writeup as though you're keeping journal of your step-by-step process.   You should include a any insights you gained from the critique method, and what it led you to think about when considering the redesign.  You should talk about how you moved next to the sketches, and any insights you gleaned from your user feedback.  Document what you changed based on the user feedback in your redesign.  Finally, talk about what your redesigned data visualization shows, why you selected the data visualization you did, and what you attempted to show or do differently._
-
-_You can include screenshots, sketches or other artifacts with your narrative to help tell the story of how you moved through the process.  Again, make sure to avoid including any personally identifying information about your interviewees (don't list full names, etc.).  While this template serves as a guide, make sure to reference the assignment writeup on Canvas for the official guidance.  This template does not include all guidance mentioned on the assignment page._
-
 ## Step one: the visualization
 
 ![image](https://github.com/user-attachments/assets/fb445754-c364-49f0-88c5-5bc843089ee5)
 source: https://data.world/makeovermonday/coverage-of-the-hpv-vaccine 
 
-The reason I choose this visualization is because I actually think this visualilzation is very straightforward to understand, and efficient to convey information. But the design is not beautiful, the audience may lost interest or do not want to spend time reading it. So even though I know it would be challenging to make the visualization convey information more efficiently than the orginal one, I would still like to see if I can make this visualization looks better. 
+The original visualization is showing the changes of HPV vaccince coverage over time for some countires. The reason I choose this visualization is because I actually think this visualilzation is very straightforward to understand, and efficient to convey information. But the design is not beautiful enough, the audience may lost interest or do not want to spend time reading it. So even though I know it would be challenging to make the visualization convey information more efficiently than the orginal one, I would still like to see if I can make this visualization looks better. 
 
 ## Step two: the critique
 
 There are few areas of possible improvements for this visualization:
 - the whole visualization looks boring, it lacks of color differentiation. Although the it's not necessary in this case to use multiple colors, but I think we can use colors to make the visualization look better.
 - the background and y-axis and x-axis labels are too light and subtle, making it difficult for audience to know the exact values.
+- there are not labels or numbers of lines, so it would be hard for audience to learn the exact coverge rates.
 - there's no sequence or order of all the countries, so it is hard to compare the total 12 countries' coverage on HPV vaccine.
 - there are some missing labels (years) on x-axis. 
 
 ## Step three: Sketch a solution
+I have done 4 sketches overall. I have documented my thoughts when I did each sketch, and also why I think the sketch not works well.
 
+#### Sketch 1
 ![image](https://github.com/user-attachments/assets/ad302832-ca75-41a7-a648-1c3ce9dd3cc2)
 
-The reason I choose the heatmap is it can shows the vaccine coverage of each year in our selected countries. It is hard for audience to read the exact rates from the orignal visualization, but in this heatmap, everything is straightforward. Audiences could learn information without effort. 
+The reason I choose the heatmap is it can shows the vaccine coverage of each year in our selected countries. It is hard for audience to read the exact rates from the orignal visualization, but in this heatmap, everything is straightforward. Audiences could learn information without effort. But it seems like that's too much information, and the visualization looks busy, so we will keep working here.
 
+#### Sketch 2
 ![Sheet 2](https://github.com/user-attachments/assets/fe2fcfe4-6d2e-499f-a8f8-67b12e0b850b)
+Then I think it might be useful to use a treemap, and it turns out treemap is pretty good for showing the ranking on some leve, because the bigger the size of rectangle, and higher vaccine coverage in the country. So audience could simply read the coverage rate and learn the ranking of countries. But the point is, treemap is simple and elegant, it will let us miss the changes over year, one of the important information.
 
+#### Sketch 3
 ![Sheet 1](https://github.com/user-attachments/assets/84656f84-eecf-44c9-8d32-222d242b75fe)
 This is the previous final visualization I got. The reason I choose stacked area chart is:
 - It can shows the upward trend of HPV vaccine coverage of different countries over time. While in the original visualization, it is not that obvious to see the overall upward trends of vaccine coverage.
 - It can shows the ranking of vaccine coverage conditions of selected countries, therefore it would be easier for audiences to compare that which country doing a better job in HPV vaccine coverage.
 But after talking to our TA, I realize this is not a good choice. SO I started to redesign the graph again.
 
+#### Sketch 4
 ![new_hpv_sketch](https://github.com/user-attachments/assets/b64d950c-7cd4-4dee-b0bf-de6fd3064c43)
-Then I narrowed down the slected countries, to focus on the HPV vaccine coverage by continents, instead of random slected countires in the original visualization. By using the stacked bar chart, we can clearly see that which continent has a comparately high vaccine coverage, and their changes from 2010 to 2022. But I think it still takes some time for audience to match the color and countinent names. 
+Then I narrowed down the slected countries, to focus on the HPV vaccine coverage by continents, instead of random slected countires in the original visualization. Because I think this selection could make more sense for the whole story. By using the stacked bar chart, we can clearly see that which continent has a comparately high vaccine coverage, and their changes from 2010 to 2022. But I think it still takes some time for audience to match the color and countinent names. 
 
 ## Step four: Test the solution
 
 Results: 
-
 
 | Question | Interview 1 | Interview 2 |
 |----------|-------------|-------------|
@@ -57,8 +59,6 @@ It seems like both interviewees think I can choose a better color platte for no 
 
 ## Step five: build the solution
 
-_Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
-
 <div class='tableauPlaceholder' id='viz1739400261998' style='position: relative'><noscript><a href='#'><img alt='HPV Vaccine Coverage Over Time By Continents (2010-2022)* Five Continents with Sub-Saharan Africa area and Australia, Antarcia not included* ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;HP&#47;HPV_Vaccine_Coverage_Overtime_Continents&#47;Sheet3&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='HPV_Vaccine_Coverage_Overtime_Continents&#47;Sheet3' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;HP&#47;HPV_Vaccine_Coverage_Overtime_Continents&#47;Sheet3&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
 <script type='text/javascript'>                    
   var divElement = document.getElementById('viz1739400261998');                    
@@ -70,7 +70,15 @@ _Include and describe your final solution here. It's also a good idea to summari
 </script>
 
 ![Sheet 3](https://github.com/user-attachments/assets/f46de5a0-33e9-40dc-99e9-2579c91d8b00)
-* For some reason, the embeded code could not shoe the complete visualization, so I pasted a image here.
+"For some reason, the embeded code could not shoe the complete visualization, so I pasted a image here."
+
+My final visualization is a combined bar charts. I re-select the entities (countries) of the visualization. I select the data of continents, so the visualization is trying to show the HPV vaccine coverage over time by continents, which would be a better story than just selected random countires, which is meaningless to compare. And through the new design, audience can first easily see the changes and exact coverage rate number in each continent over time. They can also easily compare the coverage rates between each continent. Also, I used different colors to represent different continents, although it's not necessary in this case, but I have tried using the same color for bar charts and figured out since those bar charts are so close, it would be a little bit hard to distinguish. So I finally decided to use different colors representing continents. 
+
+So overall, the benefits of my new redesign would be:
+- A better and make more sense story, by showing HPV coverage by continents, which could let audience see the HPV vaccine condition all over the world.
+- audience can know the exact numbers of vaccine coverage rates, so they could not only see the trends by bars and numbers, but also easily comapre the conditions all over the world.
+- Also because we are using Gantt bar charts, audience can easily compare the HPV vaccine coverage rates by the length of bars and the numbers.
+
 ## References
 Data.World. (n.d.). Coverage of the HPV vaccine. Retrieved February 12, 2025, from https://data.world/makeovermonday/coverage-of-the-hpv-vaccine
 
