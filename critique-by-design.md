@@ -69,8 +69,9 @@ It seems like both interviewees think I can choose a better color platte for no 
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
+
 ![Sheet 3](https://github.com/user-attachments/assets/f46de5a0-33e9-40dc-99e9-2579c91d8b00)
-"For some reason, the embeded code could not shoe the complete visualization, so I pasted a image here."
+*For some reason, the embeded code could not shoe the complete visualization, so I pasted a image here.
 
 My final visualization is a combined bar charts. I re-select the entities (countries) of the visualization. I select the data of continents, so the visualization is trying to show the HPV vaccine coverage over time by continents, which would be a better story than just selected random countires, which is meaningless to compare. And through the new design, audience can first easily see the changes and exact coverage rate number in each continent over time. They can also easily compare the coverage rates between each continent. Also, I used different colors to represent different continents, although it's not necessary in this case, but I have tried using the same color for bar charts and figured out since those bar charts are so close, it would be a little bit hard to distinguish. So I finally decided to use different colors representing continents. 
 
