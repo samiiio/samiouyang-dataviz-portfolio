@@ -19,9 +19,9 @@ Text here!
 
 | Goal | Questions to Ask |
 |------|------------------|
-|      |                  |
-|      |                  |
-|      |                  |
+|      | Do you have any suggestions on the story itself?                  |
+|      | What would you do different on the chart types?                 |
+|      | If you are the audience, what would you like to see more about this topic?                 |
 
 
 Text here!
