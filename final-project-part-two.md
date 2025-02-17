@@ -10,7 +10,7 @@ Text here!
 ## Target audience
 > Include your approach to identifying representative individuals, and who you hope to reach with your story. 
 
-Text here!
+Future residents of Pittsburgh, outdoor activities lovers in Pittsburgh, whoever interested in weather of Pittsburgh.
 
 ## Interview script
 > List the goals from your research, and the questions you intend to ask. 
