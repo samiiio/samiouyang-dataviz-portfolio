@@ -33,9 +33,9 @@ Text here!
 
 | Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
-|                         |                                |             |             |
-|                         |                                |             |             |
+| Do you have any suggestions on the story itself? | It's a fun story, but might need to include more.          |  fun story           |      n/a       |
+| What would you do different on the chart types?                        |no suggestion on chart type, but could delve deeper into data to create more charts.                           |use a map to show perception of pittsburgh dfferent areas.        |             |
+|       If you are the audience, what would you like to see more about this topic?                  |   does the rainfall affect my housing choice                         |      add how rainfall affect geography of pittsburgh       |             |
 
 
 # Identified changes for Part III
