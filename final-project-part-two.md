@@ -50,11 +50,11 @@ Text here!
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
+| Most of people think my story is a little bit simple| I'll delve deeper into the dataset and other data I can find to make the story more meaningful |
+| People mentioned all my visualizations are not large enough.| Due to the template, I cannot adjust the size of visualization, so I'd like to change a template.  |
+| People metion my texts are not that obvious to see.| I'll change the text color or background.                                                |
 |                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
+
 
 > ...include any final thoughts you have here. 
 
