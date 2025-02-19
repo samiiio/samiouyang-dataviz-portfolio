@@ -58,7 +58,7 @@ Text here!
 
 > ...include any final thoughts you have here. 
 
-Text here!
+Overeall, I think the important thing I need to do is to make my story more meaningful and interesting.
 
 ## References
 1. Jagran Josh. (2024, February 20). List of most rainiest cities in the US. Retrieved from https://www.jagranjosh.com/general-knowledge/list-of-most-rainiest-cities-in-the-us-1708418997-1
