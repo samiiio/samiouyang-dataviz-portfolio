@@ -15,21 +15,21 @@ My target audiences would be:
 - Newcomers & Incoming students in Pittsburgh
   - They might not be familiar with the city’s weather and need tips on housing, outdoor activities, and seasonal planning.
 - Outdoor Enthusiasts & Fitness Lovers in Pittsburgh
-
+  - The weather can impact when and where they can train or play sports.
 
 ## Interview script
 > List the goals from your research, and the questions you intend to ask. 
 
-Text here!
+
 
 | Goal | Questions to Ask |
 |------|------------------|
-|      | Do you have any suggestions on the story itself?                  |
-|      | What would you do different on the chart types?                 |
-|      | If you are the audience, what would you like to see more about this topic?                 |
+|I personally think my story is not that meaningful, so I would like to know others' suggestions   | Do you have any suggestions on the story itself?                  |
+| I used a lot of bar charts, I would like to change some chart type    | What would you do different on the chart types?                 |
+| Gaining more ideas on the story strucutre    | If you are the audience, what would you like to see more about this topic?                 |
 
 
-Text here!
+
 
 ## Interview findings
 > Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
@@ -60,13 +60,10 @@ Text here!
 
 Text here!
 
-# Moodboards / personas
-> If you did this optional part, include details here.  Otherwise remove this section
-
-Text here!
-
 ## References
-_List any references you used here._
+1. Jagran Josh. (2024, February 20). List of most rainiest cities in the US. Retrieved from https://www.jagranjosh.com/general-knowledge/list-of-most-rainiest-cities-in-the-us-1708418997-1
+
+2. 3 Rivers Wet Weather. (n.d.). Rainfall monitoring network. Retrieved from https://3rww.github.io/rainfall/
 
 ## AI acknowledgements
 _If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
