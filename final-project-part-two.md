@@ -3,14 +3,19 @@
 # Wireframes / storyboards
 > Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project. 
 
-Text here!
+link to shorthand storyboard:
+https://preview.shorthand.com/WNG4GWnGZbeSOepV
 
 # User research 
 
 ## Target audience
 > Include your approach to identifying representative individuals, and who you hope to reach with your story. 
 
-Future residents of Pittsburgh, outdoor activities lovers in Pittsburgh, whoever interested in weather of Pittsburgh.
+My target audiences would be:
+- Newcomers & Incoming students in Pittsburgh
+  - They might not be familiar with the city’s weather and need tips on housing, outdoor activities, and seasonal planning.
+- Outdoor Enthusiasts & Fitness Lovers in Pittsburgh
+
 
 ## Interview script
 > List the goals from your research, and the questions you intend to ask. 
