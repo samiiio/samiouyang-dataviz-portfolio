@@ -4,6 +4,7 @@
 > Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project. 
 
 link to shorthand storyboard:
+
 https://preview.shorthand.com/WNG4GWnGZbeSOepV
 
 # User research 
@@ -25,8 +26,8 @@ My target audiences would be:
 | Goal | Questions to Ask |
 |------|------------------|
 |I personally think my story is not that meaningful, so I would like to know others' suggestions   | Do you have any suggestions on the story itself?                  |
-| I used a lot of bar charts, I would like to change some chart type    | What would you do different on the chart types?                 |
-| Gaining more ideas on the story strucutre    | If you are the audience, what would you like to see more about this topic?                 |
+| I used a lot of bar charts, I would like to try some chart types if there are better choices.    | What would you do different on the chart types?                 |
+| Gaining more ideas on the story strucutre itself.   | If you are the audience, what would you like to see more about this topic?                 |
 
 
 
@@ -50,15 +51,15 @@ Text here!
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
-| Most of people think my story is a little bit simple| I'll delve deeper into the dataset and other data I can find to make the story more meaningful |
+| Most of people think my story is a little bit simple, should delve deeper into the weather story| I'll delve deeper into the dataset and other data I can find to make the story more meaningful |
 | People mentioned all my visualizations are not large enough.| Due to the template, I cannot adjust the size of visualization, so I'd like to change a template.  |
-| People metion my texts are not that obvious to see.| I'll change the text color or background.                                                |
+| People metion my texts are not that obvious to see. Some text colors are too close to the background.| I'll change the text color or background.                                                |
 |                                          |                                                                                 |
 
 
 > ...include any final thoughts you have here. 
 
-Overeall, I think the important thing I need to do is to make my story more meaningful and interesting.
+Overeall, I think the most important thing I need to do is to add more aspects and details into story, making the story more interesting and meaningful.
 
 ## References
 1. Jagran Josh. (2024, February 20). List of most rainiest cities in the US. Retrieved from https://www.jagranjosh.com/general-knowledge/list-of-most-rainiest-cities-in-the-us-1708418997-1
