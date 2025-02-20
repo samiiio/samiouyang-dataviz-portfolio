@@ -1,4 +1,4 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-1) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Wireframes / storyboards
 > Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project. 
@@ -39,8 +39,8 @@ Text here!
 | Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
 | Do you have any suggestions on the story itself? | It's a fun story, but might need to include more.          |  fun story           |      n/a       |
-| What would you do different on the chart types?                        |no suggestion on chart type, but could delve deeper into data to create more charts.                           |use a map to show perception of pittsburgh dfferent areas.        |             |
-|       If you are the audience, what would you like to see more about this topic?                  |   does the rainfall affect my housing choice                         |      add how rainfall affect geography of pittsburgh       |             |
+| What would you do different on the chart types?                        |no suggestion on chart type, but could delve deeper into data to create more charts.                           |use a map to show perception of pittsburgh dfferent areas.        |    n/a         |
+|       If you are the audience, what would you like to see more about this topic?                  |   does the rainfall affect my housing choice                         |      add how rainfall affect geography of pittsburgh       |    n/a         |
 
 
 # Identified changes for Part III
