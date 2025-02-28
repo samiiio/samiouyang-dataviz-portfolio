@@ -40,7 +40,6 @@ The weather can impact when and where they can train or play sports.
 N/A
 
 # Final thoughts
-> You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
 
 I really like my topic about Pittsburgh's rainy weather. If I have more time, I would add some parts:
 - I would like to use map to visualize the annual precipitation or annual rainy days of each city in US, the map should be better than the horizontal bar chart ranking list, and it should be more intersting to read.
