@@ -10,17 +10,23 @@ Shorthand:
 # Changes made since Part II
 > Include few paragraphs that reflects on changes you made since the completion of Part II. 
 
-Text here!
+From Part II, I have made lots of changes:
+- I have added a map showing the average precipitation of neighborhoods near CMU campus.
+- I have added a horizontal multiple bar charts to show the 2024 rainiest city ranking in US.
+- I have revised the title and annotation on previous graphs to make them more readable.
+- I have change the background and text colors because my interviees said they were not easy to read.
+- I have also adjust the size of charts to make them more easy to read.
+- I have revise the paragraph under each chart, making more explanations.
 
 ## The audience
 > Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.
 
-Text here!
+My audience would be primarily three groups:
+1. Incoming students to Pittsburgh
+   This group would like to learn more about Pittsburgh's weather to learn the future life; and can also choose future housing areas for comparatively less rainy experience.
+2. Outdoor activities lovers in Pittsburgh
+   Learning more Pittsburgh weather patterns could help outdoor activities lovers to make the most of Pittsburgh's rainy weather to enjoy outdoor activities.
 
-## Final design decisions
-> You can specifically break out your design decisions here, or include it under *Changes made since Part II* and delete this section. Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process.  Include any other information that helps round out your data story. 
-
-Text here!
 
 ## References
 > **You should have already included detailed references on your Shorthand story** - if so, you do not need to list them twice, unless you used additional references for specific to your writeup. Use this section to capture any additional special notes or information necessary. If there is additional information for your shorthand readers that you've placed on this page, link from Shorthand to this page. Make sure to double-check that you aren't using copyright material and that you have added / updated any citations or other content that you used to create your data story.  Make sure you have cited external sources correctly.
