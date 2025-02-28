@@ -23,9 +23,12 @@ From Part II, I have made lots of changes:
 
 My audience would be primarily three groups:
 - Newcomers & Incoming students in Pittsburgh
-They might not be familiar with the city’s weather and need tips on housing, outdoor activities, and seasonal planning.
+
+They might not be familiar with the city’s weather and need tips on housing, outdoor activities, and seasonal planning. 
+
 - Outdoor Enthusiasts & Fitness Lovers in Pittsburgh
-The weather can impact when and where they can train or play sports.
+
+The weather can impact when and where they can train or play sports. So leanring the trend of weather in Pittsburgh could help me make most of the weather.
 
 
 ## References
