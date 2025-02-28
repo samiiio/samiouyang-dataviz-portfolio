@@ -31,6 +31,11 @@ My audience would be primarily three groups:
 ## References
 > **You should have already included detailed references on your Shorthand story** - if so, you do not need to list them twice, unless you used additional references for specific to your writeup. Use this section to capture any additional special notes or information necessary. If there is additional information for your shorthand readers that you've placed on this page, link from Shorthand to this page. Make sure to double-check that you aren't using copyright material and that you have added / updated any citations or other content that you used to create your data story.  Make sure you have cited external sources correctly.
 
+
+1. Jagran Josh. (2024, February 20). List of most rainiest cities in the US. Retrieved from https://www.jagranjosh.com/general-knowledge/list-of-most-rainiest-cities-in-the-us-1708418997-1
+2. Visual Crossing. (n.d.). Weather query builder. Visual Crossing Weather. Retrieved from https://www.visualcrossing.com/weather-query-builder/
+3. 3 Rivers Wet Weather. (n.d.). Rainfall monitoring network. Retrieved from https://3rww.github.io/rainfall/
+
 ## AI acknowledgements
 > If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here.
 
