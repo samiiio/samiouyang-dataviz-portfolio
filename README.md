@@ -22,6 +22,9 @@ Once I graduate, I would like to be a Data Analyst or Business Analyst, or havin
 ## Assignment: [Critique by Design](critique-by-design)
 For this assignment, I critique a graph from Makeup Monday by redesigning it. I have include all my thinking process, and several draft versions before I coming up with the final visualization.
 
+## Exercise: [Americans trust of news outlet](Americas-trust-of-news-outlet)
+For thisi exercise, I have create visualizations to show Americans' trust of news outlet.
+
 ## Excercises: [Visualization Examples](dataviz-examples)
 I have also include some of my data visulization examples here, feel free to check them out! 
 
