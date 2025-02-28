@@ -43,6 +43,7 @@ My audience would be primarily three groups:
 N/A
 
 # Final thoughts
+This is an overall fun project to do! It's my first time to use shorthand for presentation. SO to match my topic, when I created most of visualizations, I use blue colors to match the rain. When I do the tennis-friendly playing days visualization, I use green for the bars to match the color of tennis balls. All the design could make the shorthand slides better.  
 
 I really like my topic about Pittsburgh's rainy weather. If I have more time, I would add some parts:
 - I would like to use map to visualize the annual precipitation or annual rainy days of each city in US, the map should be better than the horizontal bar chart ranking list, and it should be more intersting to read.
