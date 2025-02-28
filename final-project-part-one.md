@@ -1,14 +1,10 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 
-> Important note: this template includes major elements of Part I, but the instructions on Canvas are the authoritative source.  Make sure to read through the assignment page and review the rubric to confirm you have everything you need before submitting.  When done, delete these instructions before submitting.
-
 # Outline
 Since moving to Pittsburgh a year ago, I’ve often heard people say, “It rains all the time here!” But after experiencing the city’s weather by myself, it doesn’t seem as rainy as I expected. Is this just my perception, or is Pittsburgh’s reputation for constant rain exaggerated? To find out, I’ll analyze historical weather data to uncover the true patterns of rainy and snowy days, identify the most frequent rainy seasons, and see if Pittsburgh really lives up to its rainy reputation.
 
 This project investigates Pittsburgh’s weather patterns, focusing on precipitation trends, including the number of rainy and snowy days, seasonal variations, and the most frequent rainy periods. By analyzing historical weather data, we can identify patterns in rainfall and snowfall distribution, helping to understand climate trends in the region. 
-
-> A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
 
 
 ## Initial sketches
