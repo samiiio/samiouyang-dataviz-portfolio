@@ -6,15 +6,18 @@ Link to Shorthand:
 [Surviving in Pittsburg's Rainy Weather](https://preview.shorthand.com/WNG4GWnGZbeSOepV)
 
 # Changes made since Part II
-> Include few paragraphs that reflects on changes you made since the completion of Part II. 
 
 From Part II, I have made lots of changes:
 - I have added a map showing the average precipitation of neighborhoods near CMU campus.
+  - I make this change because one of my target audience is incoming students group. Learning the average precipitation of neighborhoods could help them make choice on housing. And it would be fun to see the difference on precipitation within Pittsburgh. Personally speaking, I did not expect that the precipitation difference would be this large.
 - I have added a horizontal multiple bar charts to show the 2024 rainiest city ranking in US.
+  - To give audience a better idea about the top rainiest city, I visualize the rainy days and precipitation, so audience can easily compare by seeing the bar charts.I also highlight the bars of Pittsburgh, to make it more obvious to see.
 - I have revised the title and annotation on previous graphs to make them more readable.
-- I have change the background and text colors because my interviees said they were not easy to read.
-- I have also adjust the size of charts to make them more easy to read.
+  - My interviees from part II give me some suggestions that I should use better titles for graphs, making them more summarizable.
+- I have change the background and text colors, and adjust the size of charts.
+  - According to my interviees, the charts are too small to see, and the background's color is close to the map, so they cannot see the map very clearly. SO I change the opacity and the background color to make the map more readable.
 - I have revise the paragraph under each chart, making more explanations.
+
 
 ## The audience
 
