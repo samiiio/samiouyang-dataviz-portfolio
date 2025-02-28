@@ -16,8 +16,9 @@ _You can place some of your data viz examples from the course here.  Make sure t
 </script>
 
 
+# Below are two versions of Debt-to-GDP ratio visualizations.
 
-# Debt-to-GDP ratio
+## Debt-to-GDP ratio
 <div class='tableauPlaceholder' id='viz1738022264131' style='position: relative'><noscript><a href='#'><img alt='Debt-to-GDP ratio ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;go&#47;government_part2&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='government_part2&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;go&#47;government_part2&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
 <script type='text/javascript'>                    
   var divElement = document.getElementById('viz1738022264131');                    
@@ -28,7 +29,7 @@ _You can place some of your data viz examples from the course here.  Make sure t
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
-# Debt-to-GDP ratio 2
+## Debt-to-GDP ratio 2
 <div class='tableauPlaceholder' id='viz1738022740906' style='position: relative'><noscript><a href='#'><img alt='Debt-to-GDP ratio ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;go&#47;government_part2&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='government_part2&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;go&#47;government_part2&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
 <script type='text/javascript'>                    
   var divElement = document.getElementById('viz1738022740906');                    
@@ -39,5 +40,3 @@ _You can place some of your data viz examples from the course here.  Make sure t
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
-# Final Part 2 nots
-<div style="min-height:626px" id="datawrapper-vis-rS5Fh"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/rS5Fh/embed.js" charset="utf-8" data-target="#datawrapper-vis-rS5Fh"></script><noscript><img src="https://datawrapper.dwcdn.net/rS5Fh/full.png" alt="" /></noscript></div>
