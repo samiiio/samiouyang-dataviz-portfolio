@@ -24,11 +24,11 @@ From Part II, I have made lots of changes:
 My audience would be primarily three groups:
 - Newcomers & Incoming students in Pittsburgh
 
-They might not be familiar with the city’s weather and need tips on housing, outdoor activities, and seasonal planning. 
+  They might not be familiar with the city’s weather and need tips on housing, outdoor activities, and seasonal planning. 
 
 - Outdoor Enthusiasts & Fitness Lovers in Pittsburgh
 
-The weather can impact when and where they can train or play sports. So leanring the trend of weather in Pittsburgh could help me make most of the weather.
+  The weather can impact when and where they can train or play sports. So leanring the trend of weather in Pittsburgh could help me make most of the weather.
 
 
 ## References
@@ -48,3 +48,5 @@ I really like my topic about Pittsburgh's rainy weather. If I have more time, I 
 - I would like to use map to visualize the annual precipitation or annual rainy days of each city in US, the map should be better than the horizontal bar chart ranking list, and it should be more intersting to read.
 - I can explore the city around pittsburgh, figuring out those cities have comparatively lower precipitation, and we can combine these with the recommendations, to provide plans for audience to 'escape' from pittsburgh in rainy season.
 - I would also focus on the history of pittsburgh's rain. Like is there any geographical changes caused by rain. I tried to find this data this time, but I cannot find any. If I have more time, I can delve deeper into this part.
+
+Overall, I think this project is pretty intersting, and could be helpful for incoming students and residents in Pittsburgh to learn the pattern of weather, and making most of it!
