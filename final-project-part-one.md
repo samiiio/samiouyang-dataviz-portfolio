@@ -4,39 +4,43 @@
 > Important note: this template includes major elements of Part I, but the instructions on Canvas are the authoritative source.  Make sure to read through the assignment page and review the rubric to confirm you have everything you need before submitting.  When done, delete these instructions before submitting.
 
 # Outline
-> Include a high-level summary of your project.  This should be a couple paragraphs that describe what you're interested in showing with your final project. 
- 
-Text here...
+Since moving to Pittsburgh a year ago, I’ve often heard people say, “It rains all the time here!” But after experiencing the city’s weather by myself, it doesn’t seem as rainy as I expected. Is this just my perception, or is Pittsburgh’s reputation for constant rain exaggerated? To find out, I’ll analyze historical weather data to uncover the true patterns of rainy and snowy days, identify the most frequent rainy seasons, and see if Pittsburgh really lives up to its rainy reputation.
+
+This project investigates Pittsburgh’s weather patterns, focusing on precipitation trends, including the number of rainy and snowy days, seasonal variations, and the most frequent rainy periods. By analyzing historical weather data, we can identify patterns in rainfall and snowfall distribution, helping to understand climate trends in the region. 
 
 > A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
 
-Text here...
 
 ## Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
 
-Text here...
+<img width="805" alt="image" src="https://github.com/user-attachments/assets/ca10eec0-0180-4c4f-9dad-3b62b3e4280d" />
+
+I'll first exploring the percentage of each weather condition in Pittsburgh, to see if rainy days really dominiate a lot in Pittsburgh.
+
+<img width="740" alt="image" src="https://github.com/user-attachments/assets/86df4046-9326-4a7d-a359-c571f26de188" />
+
+Then I will figure out when is the rainy season in Pittsburgh.
+
 
 # The data
-> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
+Source: https://www.visualcrossing.com/weather/weather-data-services#
 
-Text here...
+Dropbox: https://drive.google.com/drive/folders/1dVE8PM1bRmRD6FLIXur8KMm6ncupdE9R?usp=drive_link
 
-> A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
+The data is from Visual Crossing Weather, a convienet and lowest-cost source for historical weather data.(Visual Crossing, 2024) The data contains features like temperature, perciptation, humidity, windspeed, etc. So I will explore:
+- the percentage of rainy days in a year in pittsburgh
+- when is the rainy season
+- when is the best time for playing tennis outdoor
+- etc.
 
-| Name | URL | Description |
-|------|-----|-------------|
-|      |     |             |
-|      |     |             |
-|      |     |             |
 
 # Method and medium
-> In a few sentences, you should document how you plan on completing your final project. 
+I will first use python to see if there any missing values or ourliers I need to handle. After data cleaning, I will use Tableau or Python to explore data, to see what interesting data visualizations I can make, and also to achieve the inital sketches I made above.
+For the presentation, I would like to use Shorthand to do that.
 
-Text here...
 
 ## References
-_List any references you used here._
+- Visual Crossing. (2024). Weather Data & API. Retrieved from https://www.visualcrossing.com/
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+N/a
